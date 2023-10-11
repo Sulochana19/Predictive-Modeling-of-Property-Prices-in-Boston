@@ -1,4 +1,4 @@
-# Predictive Modeling of Property Prices in Bostonusing Machine Learning.
+# Predictive Modeling of Property Prices in Boston using Machine Learning.
 ● Cleaned and prepared the dataset, exploring feature relationships, and transforming the target variable with log
 scaling.
 ● Achieved an impressive R-squared value of 0.79 on the training dataset, highlighting feature importance.
